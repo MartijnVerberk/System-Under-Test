@@ -123,6 +123,9 @@ The frontend code is structured as follows:
 * `frontend/src/routes` - The different routes of the frontend which include the pages.
 * `theme.tsx` - The Chakra UI custom theme.
 
+## Colors and themes
+Cap
+
 ## End-to-End Testing with Playwright
 
 The frontend includes initial end-to-end tests using Playwright. To run the tests, you need to have the Docker Compose stack running. Start the stack with the following command:
